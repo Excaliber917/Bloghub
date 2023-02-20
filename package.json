@@ -14,7 +14,8 @@
     "nodemon": "^2.0.20"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build":"npm i"
   },
   "author": "",
   "license": "ISC",
